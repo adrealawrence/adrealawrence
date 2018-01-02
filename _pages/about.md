@@ -2,13 +2,13 @@
 layout: about
 permalink: /
 title: <strong>Adrea</strong> Lawrence
-description: <a href="http:/umt.edu">University of Montana</a>. historian | policy nerd | tinkerer
+description: historian | policy nerd | tinkerer
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Phyllis J. Washington College of Education and Human Sciences</p>
+    <p><a href="http:/www.umt.edu>University of Montana</a></p>
     <p>32 Campus Dr.</p>
     <p>Missoula, MT 59812</p>
 
@@ -20,4 +20,4 @@ I am an education historian.  Most of my colleagues know me as someone who has s
 
 \*    *    *    *
 
-I am currently the Interim Dean and Associate Professor in the Phyllis J. Washington College of Education and Human Sciences at the University of Montana in Missoula.  I earned a Ph.D. in Educational Leadership and Policy Studies from Indiana University in 2006.  Before that, I was a high school social studies teacher in Littleton, Colorado.  I have a Master of Arts degree in Instruction and Curriculum  and a Bachelor of Arts degree in American Studies from the University of Colorado at Boulder.
+I am currently the Interim Dean and Associate Professor in the [Phyllis J. Washington College of Education and Human Sciences](https://coehs.umt.edu) at the University of Montana in Missoula.  I earned a Ph.D. in Educational Leadership and Policy Studies from Indiana University in 2006.  Before that, I was a high school social studies teacher in Littleton, Colorado.  I have a Master of Arts degree in Instruction and Curriculum  and a Bachelor of Arts degree in American Studies from the University of Colorado at Boulder.
