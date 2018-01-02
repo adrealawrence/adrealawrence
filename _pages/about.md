@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p><a href="http:/www.umt.edu>University of Montana</a></p>
+    <p>University of Montana</p>
     <p>32 Campus Dr.</p>
     <p>Missoula, MT 59812</p>
 
