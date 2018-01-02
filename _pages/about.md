@@ -20,4 +20,4 @@ I am an education historian.  Most of my colleagues know me as someone who has s
 
 \*    *    *    *
 
-I am currently the Interim Dean and Associate Professor in the [Phyllis J. Washington College of Education and Human Sciences](https://coehs.umt.edu) at the University of Montana in Missoula.  I earned a Ph.D. in Educational Leadership and Policy Studies from Indiana University in 2006.  Before that, I was a high school social studies teacher in Littleton, Colorado.  I have a Master of Arts degree in Instruction and Curriculum  and a Bachelor of Arts degree in American Studies from the University of Colorado at Boulder.
+I am currently the Interim Dean and Associate Professor in the Phyllis J. Washington College of Education and Human Sciences (https://coehs.umt.edu) at the University of Montana in Missoula.  I earned a Ph.D. in Educational Leadership and Policy Studies from Indiana University in 2006.  Before that, I was a high school social studies teacher in Littleton, Colorado.  I have a Master of Arts degree in Instruction and Curriculum  and a Bachelor of Arts degree in American Studies from the University of Colorado at Boulder.
