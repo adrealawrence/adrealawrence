@@ -87,7 +87,7 @@ scholar:
 
   last_name: Einstein
 
-  style: chicago-fullnote-bibliography-16th-edition
+  style: mla
   locale: en
 
   sort_by: year
