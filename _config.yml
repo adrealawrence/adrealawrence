@@ -85,12 +85,13 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Lawrence
 
   style: mla
   locale: en
 
-  sort_by: year
+  sort_by: year, month
+  group_by: type, year
   order: descending
 
   source: /_bibliography/
