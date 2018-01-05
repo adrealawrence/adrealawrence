@@ -90,9 +90,11 @@ scholar:
   style: apa
   locale: en
 
-  sort_by: year, month
-  group_by: type, year
+  sort_by: year
   order: descending
+  group_by: type
+  group_order: type
+  type_order: book, bookchapter, article, multilogue, bookreview, toolreview, iosapplication, curricula, presentation
 
   source: /_bibliography/
   bibliography: papers.bib
